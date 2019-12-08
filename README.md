@@ -1,4 +1,4 @@
-# Interpreter-using-lex-and-yaac
+# Interpreter-for-Prefix-Expression-Evaluation-using-lex-and-yaac
 This is an implementation of a simple interpreter using lex and yaac for evaluating a given cfg
 ## Building the interpreter
 yacc -y -d yacc_compile.y
